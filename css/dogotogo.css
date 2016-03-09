@@ -27,7 +27,7 @@ footer, header, hgroup, menu, nav, section{
 body{
 	height: 100%;
 	background-color: #fff;
-	font-family: 'Open Sans';
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	font-size: 1em;
 }
@@ -107,7 +107,8 @@ a, a:hover{
 
 .logo{
 	float: left;
-	margin: 0 0.3125em;
+	margin-left: 10px;
+	margin-right: 5px;
 }
 
 .logo img{
@@ -116,7 +117,7 @@ a, a:hover{
 }
 
 .nav li{
-	margin-right: 2em;
+	margin-right: 10px;
 	padding-top: 5px;
 }
 

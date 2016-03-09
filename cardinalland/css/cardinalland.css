@@ -116,8 +116,7 @@ a, a:hover{
 }
 
 .nav li{
-	margin-left: 1.875em;
-	margin-right: 2em;
+	margin: 0 10px;
 	padding-top: 5px;
 }
 
@@ -132,7 +131,7 @@ a, a:hover{
 }
 
 li.right.press-kit{
- margin: 0;
+	margin-right: 30px;
 }
 
 #wrap-bg{
