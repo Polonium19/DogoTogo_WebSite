@@ -120,6 +120,10 @@ a, a:hover{
 	font-weight: 300;
 }
 
+.nav a:hover{
+	color: #909090;
+}
+
 #wrap-main{
 	width: 100%;
 	top: 50%;

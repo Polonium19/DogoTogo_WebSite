@@ -130,6 +130,10 @@ a, a:hover{
 	font-weight: 300;
 }
 
+.nav a:hover{
+	color: #ccc;
+}
+
 li.right.press-kit{
 	margin-right: 30px;
 }
