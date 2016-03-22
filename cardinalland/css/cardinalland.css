@@ -105,7 +105,7 @@ a, a:hover{
 	top: 0;
 	width: 100%;
 	position: fixed;
-	z-index: 999;
+	z-index: 10;
 }
 
 .header-menu{
@@ -178,9 +178,9 @@ iframe{
 }
 
 .store p{
-	text-align: center;
-	font-size: 15px;
-	padding: 4px;
+	text-align: left;
+	font-size: 14px;
+	padding: 4px 0px 2px 182px;
 }
 
 .app-store{
@@ -252,13 +252,12 @@ iframe{
 }
 }
 
-
-
 /*resolution-screen: width: 768px */
 @media screen and (max-width: 768px){ 
 #wrap-bg{
 	background-position: center 150px;
 	padding-top: 180px;
+    height: 830px;
 }
 }
 
@@ -268,6 +267,7 @@ iframe{
     padding-bottom: 60px;
 }
 #wrap-bg{
+	height: 100%;
 	background-position: center 50px;
 	padding-top: 40px;
 	background-size: 100%;

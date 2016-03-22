@@ -97,7 +97,8 @@ a, a:hover{
 	left: 0;
 	right: 0;
 	width: 100%;
-	position: relative;
+	position: fixed;
+	z-index: 10;
 }
 
 .header-menu{
@@ -243,19 +244,22 @@ a, a:hover{
 /*resolution-screen: width: 568px */
 @media screen and (max-width: 568px){ 
 #wrap-main{
-	margin-top: -115px;
+	margin-top: -100px;
 }
 
 .main-image img{
 	width: 39.5%;
 }
 
+#footer{
+	padding-top: 40px;
+}
 }
 
 /*resolution-screen: width: 480px */
 @media screen and (max-width: 480px){ 
 #wrap-main{
-	margin-top: -110px;
+	margin-top: -100px;
 }
 
 .main-image img{
@@ -271,6 +275,10 @@ a, a:hover{
 
 .main-image img{
 	width: 70%;
+}
+
+#footer{
+	padding-top: 0;
 }
 }
 
