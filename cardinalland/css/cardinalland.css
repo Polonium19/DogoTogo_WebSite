@@ -171,6 +171,7 @@ iframe{
 
 /*store*/
 .store{
+	padding: 4px 0;
 	height: 3.5em;
 	margin: 0 auto;
 	width: 33.75em;
@@ -178,9 +179,10 @@ iframe{
 }
 
 .store p{
-	text-align: left;
-	font-size: 14px;
-	padding: 4px 0px 2px 182px;
+	color: #909090;
+	text-align: right;
+	font-size: 11.5px;
+	padding: 4px 0px 1px 182px;
 }
 
 .app-store{
