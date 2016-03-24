@@ -251,6 +251,11 @@ a, a:hover{
 	width: 39.5%;
 }
 
+#descr p{
+	font-size: 11px;
+}
+
+
 #footer{
 	padding-top: 40px;
 }
@@ -265,6 +270,11 @@ a, a:hover{
 .main-image img{
 	width: 46.7%;
 }
+
+#descr p{
+	font-size: 11px;
+}
+
 }	
 
 /*resolution-screen: width: 414px */
@@ -275,6 +285,10 @@ a, a:hover{
 
 .main-image img{
 	width: 70%;
+}
+
+#descr p{
+	font-size: 11px;
 }
 
 #footer{
