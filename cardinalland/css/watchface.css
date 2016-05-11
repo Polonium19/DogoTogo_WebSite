@@ -103,6 +103,7 @@ a:hover{
 .title h3{
 	margin: 0 auto;
 	color: #000;
+	font-weight: 300;
 	text-align: center;
 	font-size: 16px;
 	line-height: 21px;
@@ -124,5 +125,10 @@ a:hover{
     display: block;
 	margin-left: auto;
 	margin-right: auto;
+}
+@media (min-width: 415px) and (max-width: 767px){
+	.title, .section{
+		width: 290px;
+	}
 }
 
