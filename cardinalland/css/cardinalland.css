@@ -197,7 +197,7 @@ iframe{
 	margin: 0 auto;
 }
 
-.windows-phone-store{
+.mac-store{
 	width: 11.375em;
 	height: 2.5em;
 	margin: 0 auto;
@@ -321,13 +321,13 @@ iframe{
 }
 .app-store, 
 .google-play,
-.windows-phone-store{
+.mac-store{
 	width: 153px;
 	transform: scale(1);
 }	
 .app-store img, 
 .google-play img, 
-.windows-phone-store img{	
+.mac-store img{	
 	transform: scale(1);
 	width: 153px;
 }
@@ -363,13 +363,13 @@ iframe{
 }
 .app-store, 
 .google-play,
-.windows-phone-store{
+.mac-store{
 	width: 133px;
 	transform: scale(1);
 }	
 .app-store img, 
 .google-play img, 
-.windows-phone-store img{	
+.mac-store img{	
 	transform: scale(1);
 	width: 133px;
 	height: 30px;
@@ -397,13 +397,13 @@ iframe{
 }
 .app-store, 
 .google-play,
-.windows-phone-store{
+.mac-store{
 	width: 120px;
 	transform: scale(1);
 }	
 .app-store img, 
 .google-play img, 
-.windows-phone-store img{	
+.mac-store img{	
 	transform: scale(1);
 	width: 120px;
 }
@@ -427,13 +427,13 @@ iframe{
 }
 .app-store, 
 .google-play,
-.windows-phone-store{
+.mac-store{
 	width: 100px;
 	transform: scale(1);
 }	
 .app-store img, 
 .google-play img, 
-.windows-phone-store img{	
+.mac-store img{	
 	transform: scale(1);
 	width: 100px;
 	height: 25px;
